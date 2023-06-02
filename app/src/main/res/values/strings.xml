@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Utilator</string>
+
+    <!-- Card Registro Leitura -->
+    <string name="consumo_luz">Consumo de Luz</string>
+    <string name="badge_no_mes">(no mês)</string>
+    <string name="sem_registros">Sem registros</string>
+    <string name="btn_nova_leitura">Registrar nova leitura</string>
+    <string name="desc_icone_add">Sinal de mais indicando adição</string>
+
+    <!-- Registro BottomSheet -->
+    <string name="cta_informe_valor">Informe o valor da leitura:</string>
+    <string name="btn_registrar">Registrar</string>
+
+    <!-- Erros -->
+    <string name="erro_leitura_menor_que_zero">Valor da leitura deve ser zero ou maior!</string>
+</resources>
