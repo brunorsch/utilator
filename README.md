@@ -27,3 +27,5 @@ mas com toda a regra de negócio da aplicação e armazenamento dos dados em ban
 Desde que o Jetpack Compose v1.0 foi lançado, essa vontade aumentou ainda mais, uma vez que nunca me dei bem com o modelo "antigo" de UIs do Android, com XMLs e afins, diferentemente do Compose, o qual me 
 pareceu muito mais convidativo e simples de utilizar. Dessa forma, utilizei a ideia do Utilator para servir como aprendizado para desenvolvimento Android com Jetpack Compose, além de aplicar padrões como
 MVVM e a aprender sobre a utilização do ORM Room para interagir com o banco SQLite do app. 
+
+O nome vem da junção de _Utility bills_ (Basicamente conta de água e luz) + _Calculator_.
