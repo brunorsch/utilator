@@ -1,7 +1,7 @@
 # Utilator
 App Android para controle de gastos com luz e água.
 
-![Demo do funcionamento básico do app](https://i.imgur.com/tfddzkM.gif)
+<img src="https://i.imgur.com/tfddzkM.gif" alt="Demo do funcionamento básico do app" width="30%"> 
 
 # Features
 _Features marcadas já estão implementadas_
